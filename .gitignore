@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# PostgreSQL data
+postgres_data/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
